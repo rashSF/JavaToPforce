@@ -1,11 +1,8 @@
 package p4actions;
 
 import java.net.URISyntaxException;
-import java.net.UnknownHostException;
 import java.util.List;
 
-import com.perforce.p4java.client.IClientViewMapping;
-import com.perforce.p4java.core.IMapEntry.EntryType;
 import com.perforce.p4java.exception.AccessException;
 import com.perforce.p4java.exception.ConfigException;
 import com.perforce.p4java.exception.ConnectionException;

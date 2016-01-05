@@ -32,6 +32,11 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/rt/Documents/New Salesforce Laptop/PERFORCE FOR SALESFORCE/p4java-2015.1.1210280/p4java-2015.1.1210280.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rt/Documents/New Salesforce Laptop/PERFORCE FOR SALESFORCE/p4java-2015.1.1210280/p4java-2015.1.1210280.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/rt/Documents/New%20Salesforce%20Laptop/PERFORCE%20FOR%20SALESFORCE/p4java-2015.1.1210280/docs/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/rt/Documents/New Salesforce Laptop/PERFORCE FOR SALESFORCE/p4java-2015.1.1210280"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

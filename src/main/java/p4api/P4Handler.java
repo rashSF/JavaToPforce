@@ -24,7 +24,6 @@ import com.perforce.p4java.impl.generic.client.ClientView;
 import com.perforce.p4java.impl.generic.client.ClientView.ClientViewMapping;
 import com.perforce.p4java.impl.generic.core.Changelist;
 import com.perforce.p4java.impl.mapbased.client.Client;
-import com.perforce.p4java.server.IOptionsServer;
 import com.perforce.p4java.server.IServer;
 import com.perforce.p4java.server.IServerInfo;
 import com.perforce.p4java.server.ServerFactory;
